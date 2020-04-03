@@ -1,0 +1,8 @@
+site_name: iTowns_Docs
+
+docs_dir: 'docs'
+theme: 'material'
+
+markdown_extensions:
+  - codehilite:
+      linenums: true
